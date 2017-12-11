@@ -29,8 +29,6 @@ component_sssp(
 	 * Figure out which attribute in the component edges schema you will
 	 * use for your weight function
 	 */
-    //int q = schema_count(c->e->tuple->s->attrlist->name);
-
 	
     // Iterates through edge schema for first instance of an integer
     // to use as the edge weight
